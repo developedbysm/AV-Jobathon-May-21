@@ -23,7 +23,6 @@ Now that all the data preprocessing and feature engineering is done, I have buil
 I have used Stratified K fold in the model, since a stratified K fold, preserves the percentage of the sample that is picked randomly, similar to the percentage of the groups in the actual population. 
 
 I have used three models, which are:-
-Creating a List
 *	Cat boosting
 *	Light Gradient boosting and 
 *	Extreme gradient boosting. 
@@ -37,7 +36,6 @@ I have used Cat boosting as one of the models because it is a machine learning a
 
 The next model used is Light gradient boosting, which is yet another framework based on the decision tree, which increases the efficiency of the model and reduces the memory that is being used. More over LGB works over two techniques:
 
-Creating a List
 1. Gradient based one side sampling
 
 2. Exclusive feature bundling
