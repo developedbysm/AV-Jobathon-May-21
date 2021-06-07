@@ -1,5 +1,9 @@
-# Credit-card-leads---Analytics-Vidhya---Jobathon-May-2021
+
+<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+# Credit-card-leads-Analytics-Vidhya
+
 credit card lead prediction
+
 # About:
 
 In business today, generation of leads could help save resources like time and money and increase the revenue. Moreover, if the business is able to correctly identify the customers of different segments and cross sell their products, it would obviously improve the business revenue, customer satisfaction, customer life time value through a deeper integration in a customer’s business. 
