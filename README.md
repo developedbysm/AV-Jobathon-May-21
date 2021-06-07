@@ -66,9 +66,9 @@ The output prediction is the average values of all the probabilities that is obt
 ### Leader Board – public leaderboard : 890
 
 ### Leader Board – private leaderboard : 871
-[Link to Competition](https://datahack.analyticsvidhya.com/contest/job-a-thon-2/?utm_source=datahack&utm_medium=Navbar&utm_campaign=Jobathon#LeaderBoard)
 
-This dataset was part of May 2021 Job-a-thon conducted my Analytics Vidhya, for more info check:https://datahack.analyticsvidhya.com/contest/job-a-thon-2/
+
+This dataset was part of May 2021 Job-a-thon conducted my Analytics Vidhya, for more info check:[Link to Competition](https://datahack.analyticsvidhya.com/contest/job-a-thon-2/)
 
 <img src="https://img.shields.io/github/downloads/developedbysm/AV-Jobathon-May-21/total.svg"/>
 <img src="https://img.shields.io/github/stars/developedbysm/AV-Jobathon-May-21.svg"/>
