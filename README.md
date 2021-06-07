@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-<img src="https://img.shields.io/github/realese/developedbysm/AV-Jobathon-May-21.svg"/>
+
 credit card lead prediction
 
 # About:
