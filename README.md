@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-<img src="https://img.shields.io/github/realese/{username}/{repo-name}.svg"/>
+<img src="https://img.shields.io/github/realese/developedbysm/AV-Jobathon-May-21.svg"/>
 credit card lead prediction
 
 # About:
@@ -65,8 +65,8 @@ The output prediction is the average values of all the probabilities that is obt
 
 This dataset was part of May 2021 Job-a-thon conducted my Analytics Vidhya, for more info check:https://datahack.analyticsvidhya.com/contest/job-a-thon-2/
 
-<img src="https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg"/>
-<img src="https://img.shields.io/github/stars/{username}/{repo-name}.svg"/>
-<img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg"/>
-<img src="https://img.shields.io/github/forks/{username}/{repo-name}.svg"/>
-<img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000"/>
+<img src="https://img.shields.io/github/downloads/developedbysm/AV-Jobathon-May-21/total.svg"/>
+<img src="https://img.shields.io/github/stars/developedbysm/AV-Jobathon-May-21.svg"/>
+<img src="https://img.shields.io/github/watchers/developedbysm/AV-Jobathon-May-21.svg"/>
+<img src="https://img.shields.io/github/forks/developedbysm/AV-Jobathon-May-21.svg"/>
+<img src="https://img.shields.io/github/followers/developedbysm.svg?style=social&label=Follow&maxAge=2592000"/>
