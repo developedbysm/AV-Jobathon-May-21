@@ -57,11 +57,16 @@ This technique uses a differentiable loss function and gradient descent optimiza
 
 The output prediction is the average values of all the probabilities that is obtained from all the three models.  Few other models such as Random Forest classifier, Ada boosting and bagging also gives a prediction, however it gives a lower accuracy compared to the LGB, XGB and Cat boosting. 
 
+- The Notebook file is `Credit Card Lead Prediction.ipynb`.
+- The output file is `output_cxl.csv`.
+
+
 #### My test score is 0.8497....
 
 ### Leader Board – public leaderboard : 890
 
 ### Leader Board – private leaderboard : 871
+[Link to Competition](https://datahack.analyticsvidhya.com/contest/job-a-thon-2/?utm_source=datahack&utm_medium=Navbar&utm_campaign=Jobathon#LeaderBoard)
 
 This dataset was part of May 2021 Job-a-thon conducted my Analytics Vidhya, for more info check:https://datahack.analyticsvidhya.com/contest/job-a-thon-2/
 
